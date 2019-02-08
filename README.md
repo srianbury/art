@@ -1,5 +1,5 @@
 ## I cloned this repo from https://github.com/shortstack/art
-###Goal for this repository:
+### Goal for this repository:
 Create a GitHub Page where you can easily copy the images.  These images are awesome and I thought this would be a fun project!!
 
 # my "art"
