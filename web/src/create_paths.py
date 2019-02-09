@@ -12,7 +12,7 @@ img_path = os.path.join(cwd, img_folder)
 onlyfiles = [f for f in listdir(img_path) if isfile(join(img_path, f))]
 
 #create a json array of the file names to write to a file
-outfile_text = 'export const filename = [ '
+outfile_text = 'export const filenames = [ '
 for filename in onlyfiles:
 	temp_str = ('"%s", ' % filename)
 	outfile_text = outfile_text + temp_str
