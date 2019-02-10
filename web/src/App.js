@@ -37,13 +37,14 @@ class App extends Component {
           <div className='container d-flex justify-content-between'>
             <h1 className='navbar-brand'>Find a sticker!</h1>
             <a href='https://github.com/shortstack/art' target='_blank' rel="noopener noreferrer">
-              <h1  className='navbar-brand'>Check out the artist on GitHub! (It's not me)</h1>
+              <h1  className='navbar-brand'>Check out the artist!</h1>
+              <img className='img-thumbnail' style={{height:45  }} src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png' alt='Octocat' />
             </a>
           </div>
         </nav>
         <div id='container' className='container'>
           <div className='d-flex justify-content-center'>
-            <input className='form-control col-md-6' style={{marginTop:20, marginBottom:20}} type='text' value={this.state.search} onChange={this.handleChange} />
+            <input className='form-control col-md-6' placeholder='Search here!' style={{marginTop:20, marginBottom:20}} type='text' value={this.state.search} onChange={this.handleChange} />
           </div>
           <div id='row' className='row'>
             {list.reverse()}
