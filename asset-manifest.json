@@ -1,7 +1,7 @@
 {
   "main.css": "/art/static/css/main.bbda790d.chunk.css",
-  "main.js": "/art/static/js/main.31393c57.chunk.js",
-  "main.js.map": "/art/static/js/main.31393c57.chunk.js.map",
+  "main.js": "/art/static/js/main.9675883a.chunk.js",
+  "main.js.map": "/art/static/js/main.9675883a.chunk.js.map",
   "static/js/1.a852b0eb.chunk.js": "/art/static/js/1.a852b0eb.chunk.js",
   "static/js/1.a852b0eb.chunk.js.map": "/art/static/js/1.a852b0eb.chunk.js.map",
   "runtime~main.js": "/art/static/js/runtime~main.fe60d1eb.js",
@@ -90,6 +90,6 @@
   "static/media/zombie-cat-teepee.png": "/art/static/media/zombie-cat-teepee.94e0e26c.png",
   "static/css/main.bbda790d.chunk.css.map": "/art/static/css/main.bbda790d.chunk.css.map",
   "index.html": "/art/index.html",
-  "precache-manifest.ebfd920db1368463b6a5d2205e8db086.js": "/art/precache-manifest.ebfd920db1368463b6a5d2205e8db086.js",
+  "precache-manifest.7894797191a345285a9ece3e06a5d9cd.js": "/art/precache-manifest.7894797191a345285a9ece3e06a5d9cd.js",
   "service-worker.js": "/art/service-worker.js"
 }

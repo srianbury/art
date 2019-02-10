@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/art/static/media/ladybug.fa4e87ac.png"
   },
   {
-    "revision": "31393c573abf1a862462",
+    "revision": "9675883aecb25b6ca7eb",
     "url": "/art/static/css/main.bbda790d.chunk.css"
   },
   {
@@ -172,8 +172,8 @@ self.__precacheManifest = [
     "url": "/art/static/media/koala.855526ba.png"
   },
   {
-    "revision": "31393c573abf1a862462",
-    "url": "/art/static/js/main.31393c57.chunk.js"
+    "revision": "9675883aecb25b6ca7eb",
+    "url": "/art/static/js/main.9675883a.chunk.js"
   },
   {
     "revision": "c51f178717305b9941042abb8cdf67ec",
@@ -344,7 +344,7 @@ self.__precacheManifest = [
     "url": "/art/static/media/zombie-cat-teepee.94e0e26c.png"
   },
   {
-    "revision": "c501e45f96788003dcf16c726516bc0c",
+    "revision": "4ec8414bd1896a0b831fb293941adc4f",
     "url": "/art/index.html"
   }
 ];
